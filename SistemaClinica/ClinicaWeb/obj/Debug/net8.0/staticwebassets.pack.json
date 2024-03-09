@@ -1,0 +1,761 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClinicaWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ClinicaWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+      "PackagePath": "staticwebassets\\Views\\Citas\\Cita.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\CitasAsignadas.js",
+      "PackagePath": "staticwebassets\\Views\\Citas\\CitasAsignadas.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+      "PackagePath": "staticwebassets\\Views\\Citas\\NuevaCita.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\DoctorHorario\\DoctorHorario.js",
+      "PackagePath": "staticwebassets\\Views\\DoctorHorario\\DoctorHorario.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Doctor\\Doctor.js",
+      "PackagePath": "staticwebassets\\Views\\Doctor\\Doctor.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Especialidad\\Especialidad.js",
+      "PackagePath": "staticwebassets\\Views\\Especialidad\\Especialidad.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\HistorialCita\\HistorialCita.js",
+      "PackagePath": "staticwebassets\\Views\\HistorialCita\\HistorialCita.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+      "PackagePath": "staticwebassets\\Views\\Usuario\\Usuario.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker.standalone.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\css\\bootstrap-datepicker3.standalone.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker-en-CA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker-en-CA.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar-tn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar-tn.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ar.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.az.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.az.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bg.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bm.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bn.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.br.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.br.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.bs.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ca.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cs.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cy.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.cy.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.da.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.da.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.de.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.de.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.el.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.el.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-AU.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-AU.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-CA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-CA.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-GB.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-GB.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-IE.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-IE.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-NZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-NZ.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-ZA.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.en-ZA.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eo.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eo.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.es.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.es.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.et.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.et.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.eu.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fa.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fi.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fo.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fo.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr-CH.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.fr.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.gl.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.he.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.he.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hi.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hr.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hu.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.hy.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.id.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.id.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.is.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.is.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it-CH.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it-CH.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.it.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ja.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ka.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kh.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kh.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kk.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.km.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.km.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ko.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.kr.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lt.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.lv.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.me.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.me.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mk.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.mn.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ms.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl-BE.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl-BE.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.nl.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.no.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.no.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.oc.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.oc.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pl.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt-BR.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.pt.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ro.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs-latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs-latin.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.rs.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ru.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.si.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.si.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sk.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sl.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sq.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr-latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr-latin.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sr.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sv.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sw.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.sw.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ta.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.ta.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tg.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tg.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.th.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.th.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tk.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.tr.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uk.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-cyrl.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-cyrl.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.uz-latn.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.vi.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-CN.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-datepicker\\locales\\bootstrap-datepicker.zh-TW.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\datatables2\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\datatables2\\js\\dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\js\\dataTables.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\datatables2\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\fontawesome\\all.js",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\all.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\datePicker\\language\\datepicker-es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\datePicker\\language\\datepicker-es.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\loadingoverlay\\loadingoverlay.min.js",
+      "PackagePath": "staticwebassets\\lib\\loadingoverlay\\loadingoverlay.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\116 SISTEMA DE CITAS MEDICAS NET 8\\SistemaClinica\\ClinicaWeb\\wwwroot\\lib\\sweetAlert2\\js\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetAlert2\\js\\sweetalert2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClinicaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClinicaWeb.props",
+      "PackagePath": "build\\ClinicaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClinicaWeb.props",
+      "PackagePath": "buildMultiTargeting\\ClinicaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClinicaWeb.props",
+      "PackagePath": "buildTransitive\\ClinicaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

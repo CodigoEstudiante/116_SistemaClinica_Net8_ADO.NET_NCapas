@@ -1,0 +1,11 @@
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\bin\Debug\net8.0\ClinicaEntidades.deps.json
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\bin\Debug\net8.0\ClinicaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\bin\Debug\net8.0\ClinicaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\refint\ClinicaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ClinicaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaEntidades\obj\Debug\net8.0\ref\ClinicaEntidades.dll

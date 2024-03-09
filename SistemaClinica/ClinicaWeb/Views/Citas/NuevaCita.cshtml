@@ -1,0 +1,132 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@section Estilos {
+    <link href="~/lib/jquery-ui/jquery-ui.css" rel="stylesheet" />
+    <style>
+        .ui-datepicker-highlight-disabled a{
+            border: 1px solid #c5c5c5 !important;
+            background: #fff !important;
+            font-weight: normal !important;
+            color: #454545 !important;
+        }
+
+    </style>
+}
+<h2 class="mt-4 mb-4">Nueva Cita</h2>
+
+<div class="card">
+    <div id="tabs">
+        <ul class="tabs-opcion">
+            <li><a href="#tab-especialidad">Especialidad</a></li>
+            <li><a href="#tab-doctor">Doctor</a></li>
+            <li><a href="#tab-horario">Horario</a></li>
+        </ul>
+        <div id="tab-especialidad">
+            <div>
+                <div class="row mb-4">
+                    <div class="col-sm-12">
+                        <h6 class="mb-3" style="font-weight:bold">Buscar Especialidad:</h6>
+                        <input type="text" class="form-control" id="txtBuscarEspecialidad" autocomplete="off">
+                    </div>
+                </div>
+                <div id="contenedor-especialidades" class="row row-cols-3">
+                </div>
+            </div>
+        </div>
+        <div id="tab-doctor">
+            <div>
+                <div class="row mb-4">
+                    <div class="col-sm-12">
+                        <h6 class="mb-3" style="font-weight:bold">Buscar Doctor:</h6>
+                        <input type="text" class="form-control" id="txtBuscarDoctor" autocomplete="off">
+                    </div>
+                </div>
+                <div id="contenedor-doctores" class="row row-cols-3">
+                </div>
+            </div>
+        </div>
+        <div id="tab-horario">
+            <div>
+                <div class="row mb-4">
+                    <div class="col-sm-12">
+                        <h6 class="mb-3" style="font-weight:bold">Fecha Cita</h6>
+                       @*  <input type="text" class="form-control" id="txtFechaCita" autocomplete="off"> *@
+                        <div id="txtFechaCita"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h6 class="mb-3" style="font-weight:bold">Turno Mañana</h6>
+                        <div id="contenedor-am" class="row row-cols-4">
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <h6 class="mb-3" style="font-weight:bold">Turno Tarde</h6>
+                        <div id="contenedor-pm" class="row row-cols-4">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="card-footer">
+        <button type="button" class="btn btn-secondary float-start me-2" id="btnRegresar">Regresar</button>
+        <button type="button" class="btn btn-primary float-end" id="btnSiguiente">Siguiente</button>
+    </div>
+</div>
+
+
+<div class="modal fade" id="mdData" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Resumen Cita</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label class="col-form-label">Especialidad:</label>
+                        <input type="text" class="form-control" id="txtEspecialidad" autocomplete="off" disabled>
+                    </div>
+                    
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label class="col-form-label">Doctor/a:</label>
+                        <input type="text" class="form-control" id="txtDoctor" autocomplete="off" disabled>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label class="col-form-label">Fecha Cita:</label>
+                        <input type="text" class="form-control" id="txtFechadeCita" autocomplete="off" disabled>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label class="col-form-label">Hora Cita:</label>
+                        <input type="text" class="form-control" id="txtHoraCita" autocomplete="off" disabled>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Volver</button>
+                <button type="button" class="btn btn-primary" id="btnAgendar">Agendar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/moment/moment.min.js"></script>
+    <script src="~/lib/jquery-ui/jquery-ui.js"></script>
+    <script src="~/lib/jquery-ui/datepicker/language/datepicker-es.js"></script>
+   
+    <script src="~/views/citas/nuevacita.js"></script>
+}

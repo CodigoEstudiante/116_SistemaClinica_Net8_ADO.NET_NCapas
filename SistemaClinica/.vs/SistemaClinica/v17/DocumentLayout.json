@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\SistemaClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\views\\doctorhorario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\doctorhorario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\wwwroot\\views\\citas\\nuevacita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\citas\\nuevacita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\wwwroot\\views\\citas\\cita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\citas\\cita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|c:\\test\\sistemaclinica\\clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|solutionrelative:clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\test\\sistemaclinica\\clinicaweb\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicaWeb\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:28:18.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Acceso\\Registrarse.cshtml",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Acceso\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T22:27:14.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T22:18:07.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T22:14:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuevaCita.js",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "ViewState": "AQIAAMsAAAAAAAAAAADwv9cAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-09T22:01:23.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitaRepositorio.cs",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAewGAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:58:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "ClinicaWeb\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:57:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cita.js",
+              "DocumentMoniker": "C:\\test\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "ToolTip": "C:\\test\\SistemaClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-09T21:57:42.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
