@@ -372,7 +372,7 @@ end
 go
 
 
-CREATE PROCEDURE sp_listaDoctorHorarioDetalle
+create PROCEDURE sp_listaDoctorHorarioDetalle
 @IdDoctor INT
 AS
 BEGIN
@@ -387,9 +387,11 @@ BEGIN
                 CONVERT(char(5), dhd2.TurnoHora, 108) AS [TurnoHora]
             FROM
                 DoctorHorarioDetalle dhd2
+				INNER JOIN DoctorHorario dh2 ON dh2.IdDoctorHorario = dhd2.IdDoctorHorario
             WHERE
                 dhd2.fecha = dhd.fecha
 				and dhd2.Reservado = 0
+				and dh2.IdDoctor = @IdDoctor
             FOR XML PATH('Hora'), TYPE, ROOT('Horarios')
         )
     FROM
@@ -398,7 +400,7 @@ BEGIN
     WHERE
         dh.IdDoctor = @IdDoctor
     GROUP BY
-        dhd.fecha
+    dhd.fecha
     FOR XML PATH('FechaAtencion'), ROOT('HorarioDoctor'), TYPE;
 END
 
