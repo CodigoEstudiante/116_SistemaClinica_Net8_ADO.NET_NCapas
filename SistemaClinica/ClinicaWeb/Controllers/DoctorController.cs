@@ -21,7 +21,7 @@ namespace ClinicaWeb.Controllers
             return View();
         }
 
-        [Authorize(Roles = "Administrador")]
+        [Authorize(Roles = "Administrador,Paciente,Doctor")]
         [HttpGet]
         public async Task<IActionResult> Lista()
         {
